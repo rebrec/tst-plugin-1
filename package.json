@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rebrec/tst-plugin-1/issues"
   },
-  "homepage": "https://github.com/rebrec/tst-plugin-1#readme"
+  "homepage": "https://github.com/rebrec/tst-plugin-1#readme",
+  "devDependencies": {
+    "np": "^6.5.0"
+  }
 }
